@@ -48,6 +48,7 @@ Built a real-time analytics dashboard to visualize the trending hashtags and @me
 
 </br>
 
+
 ## How it works
 <ol>
     <li>Extract data from Twitter's streaming API and put it into Kakfa topic.</li>
